@@ -1,6 +1,6 @@
 ## Project One: Ironhack DA
 
-<img width="400" alt="image" src="https://github.com/Paula0923/portfolio-analysis/blob/main/20231215-cover-quer-wirtschaft-mp-bulle-ba_r-aktienmarkt.jpg">
+<img width="1000" alt="image" src="https://github.com/Paula0923/portfolio-analysis/blob/main/20231215-cover-quer-wirtschaft-mp-bulle-ba_r-aktienmarkt.jpg">
 
 ## Introduction:
 
@@ -21,8 +21,18 @@ From the data, I wanted to derive conclusions on different exercises:
     - Individual performances regarding growth rates, cumulative and annualized returns and annualized volatility,
     - Correlation between the performances between individual assets.
 
-## Findings:
+## Main Conclusions in Short:
 
+- For investers with strong nerves and risk affinity, Assets 2 and 3 seem to be the right option:
+    - They promise big profits.
+    - But they also show a high volatility.
+- Asset 1 and 4 are very stable but the returns could be even lower than the inflation, so investers should be careful here as well.
+- Asset 5 could be an alternative investment as it generated good profits in the past but also a smaller tendency towards fluctuation (than Asset 2 or 3).
+- Asset 2 and 3 are highly correlated and they also show similar growth rates, annualized and cumulative returns and volatilities.
+- The type of the investments seems to be no explanatory factor for the performance, similarities and differences are not in-line with the type.
+- At the beginning of each year great changes were made to this portfolio regarding the weighting of the five different assets.
+
+## Detailed Findings:
 ### Overall:
 - Visualization: Time Series Graph in the presentation and code
 - All assets have a higher end value than start value, so overall the performance was positive.
