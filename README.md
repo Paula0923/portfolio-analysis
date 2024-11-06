@@ -1,6 +1,6 @@
 ## Project One: Ironhack DA
 
-<img width="400" alt="image" src="https://github.com/Paula0923/project-1/blob/main/picture_adler-project1.png">
+<img width="400" alt="image" src="https://github.com/Paula0923/portfolio-analysis/blob/main/20231215-cover-quer-wirtschaft-mp-bulle-ba_r-aktienmarkt.jpg">
 
 ## Introduction:
 
